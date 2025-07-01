@@ -1,0 +1,6 @@
+{
+  "name": "Bingo y Rifa Kusu",
+  "description": "Una aplicación web para jugar Bingo en línea. Angel (Admin) gestiona los créditos, Kusu (Organizador) crea partidas y Jose (Usuario) puede jugar y solicitar créditos.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
